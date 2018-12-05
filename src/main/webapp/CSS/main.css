@@ -1,0 +1,30 @@
+a {font-size: 100%;text-decoration: none;margin-left: 5%;}
+
+ul {list-style: none;}
+
+div { border: solid #0088ff 2px;background-color: white}
+
+
+#top {height: 4%;width: 90%;float: left;position: absolute;right: 3%;top: 1%;}
+
+table {margin: 10% auto;}
+
+#top1{width:300px; margin-left:80%; margin-top: 0.3% ;border: none}
+
+
+
+#lead2{ height:11%; width:85%;position:absolute; right:7%; top:7%;}
+
+tr {height: 40px;}
+
+td {width: 120px;font-size: 20px;}
+
+#left {text-align: center;height: 70%;width: 17%;position: absolute;top: 21%;left: 9%;}
+
+#right {width: 55%;position: absolute;top: 21%;left: 28%;}
+
+img {margin: 10%;height: 25%;width: 50%;}
+
+#right2 {border:none;height: 80%;width: 5%;position: fixed;top: 20%;right: 9%;}
+
+#down {}

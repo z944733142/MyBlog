@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <WatchedResource>WEB-INF/web.xml</WatchedResource>
+    <Resource
+            name="dbcpconnect"
+            auth="Container"
+            type="javax.sql.DataSource"
+            maxActive="50"
+    maxIdle="20"
+    maxWait="10000"
+    username="root"
+    password="159630235z"
+    driverClassName="com.mysql.jdbc.Driver"
+    url="jdbc:mysql://localhost:3306/mydb?useUnicode=true&amp;characterEncoding=utf-8" />
+</Context>

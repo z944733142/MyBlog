@@ -1,0 +1,38 @@
+#loginDiv
+{
+    background-color: white;
+    border: solid #0088ff 3px;
+    height: 20%;
+    width: 20%;
+    margin: 15% auto;
+    text-align:  center;
+    padding: 30px;
+}
+#loginsub
+{
+    position: absolute;
+    left: 43.3%;
+    width: 13%;
+}
+
+#resub
+{
+    width: 6%;
+    height: 3.4%;
+    position: absolute;
+    top: 51%;
+    left: 43.3%;
+}
+
+#viewsub
+{
+    width: 6%;
+    height: 3.4%;
+    position: absolute;
+    top: 51%;
+    left: 50.3%;
+}
+input[type=submit]
+{
+
+}
